@@ -1,0 +1,19 @@
+{
+  "name": "ejs-clientside",
+  "version": "1.0.0",
+  "description": "EJS clientside test. Chill.",
+  "main": "ejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/name-status/ejs-clientside.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/name-status/ejs-clientside/issues"
+  },
+  "homepage": "https://github.com/name-status/ejs-clientside#readme"
+}
